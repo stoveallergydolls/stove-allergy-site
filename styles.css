@@ -1,1 +1,17 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #fff5f8;
+}
 
+header img {
+  margin-top: 8px;
+}
+
+h1, h2, h3 {
+  color: #d63384;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
